@@ -1,6 +1,6 @@
 # 📁 My Data Projects
 
-Welcome to my project archive! Here you’ll find a growing list of data-driven stories and solutions I’ve built using different tools like **Python**, **SQL**, **Excel**, and **Tableau**. Each project reflects my journey in learning, exploring, and solving real-world problems 🌻
+Welcome to my project archive! Here you’ll find a growing list of data-driven stories and solutions I’ve built using different tools like **Python**, **SQL**, **R**, **Excel**, **PowerBI**, and **Tableau**. Each project reflects my journey in learning, exploring, and solving real-world problems 🌻
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my project archive! Here you’ll find a growing list of data-driven 
 
 ---
 
-### SQL/ Excel Projects
+### SQL/ R/ Excel Projects
 | 📝 Name | 💡 Description | 🛠️ Skills |
 |:--------:|----------------|-----------|
 | [Coffee Shop Sales](https://github.com/uyenp30/Coffee-Shop-Sales) | An Excel dashboard exploring product performance, revenue trends, and customer favorites at a coffee shop chain | `Excel Dashboard`, `Pivot Table`, `Data Cleaning`, `Business Insight`, `Visualization`|
@@ -20,7 +20,7 @@ Welcome to my project archive! Here you’ll find a growing list of data-driven 
 
 ---
 
-### Tableau Dashboards
+### PowerBI/ Tableau Dashboards
 
 | 📝 Name | 💡 Description | 🔗 Skills |
 |--------|----------------|----------------|
